@@ -1,0 +1,13 @@
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\bin\Debug\SimpleLoginForm.exe.config
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\bin\Debug\SimpleLoginForm.exe
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\bin\Debug\SimpleLoginForm.pdb
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.csproj.AssemblyReference.cache
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.Properties.Resources.resources
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.csproj.GenerateResource.cache
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.csproj.CoreCompileInputs.cache
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.csproj.CopyComplete
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.exe
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.pdb
+C:\Users\RookieThaGawd\source\repos\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.Login.resources
